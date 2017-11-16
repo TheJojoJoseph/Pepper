@@ -5,8 +5,8 @@
 #include <ThingSpeak.h>  
 #include "SH1106.h"
 #include "SH1106Ui.h"
-const char* ssid = "Kunnathucherry";  
-const char* password = "JMJ%43658382";  
+const char* ssid = "testwifi";  
+const char* password = "12345678";  
 WiFiClient client;  
 unsigned long myChannelNumber =  359593;  
 const char * myWriteAPIKey = "X4G7UOIVL2JV3BAD";  
